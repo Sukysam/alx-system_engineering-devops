@@ -1,0 +1,1 @@
+Learing redirection in shell
