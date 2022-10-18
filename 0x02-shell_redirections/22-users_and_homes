@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | cut -d 1- /etc/passwd | sort $USER 
+ls -l | cut -d 1- /etc/passwd | sort 
