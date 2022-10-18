@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'A,c' | sed 's/A,c/Z,e/g'
+echo 'A,c' | tr -c ' ' 'Z,e'
