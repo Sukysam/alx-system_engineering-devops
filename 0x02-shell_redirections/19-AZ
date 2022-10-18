@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'A,c' | sed 's/A,c/Z,e/g'
