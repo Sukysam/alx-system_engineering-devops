@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'Vc' 'Ze'
+tr 'A,c' 'Z,e'
